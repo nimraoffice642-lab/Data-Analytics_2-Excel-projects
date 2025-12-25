@@ -1,6 +1,7 @@
 # My Excel Data Analytics projects
 It contains projects on tech & data in job market all over the world:
 ## Salary Dashboard
+This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated.
 ![1_Salary_Dashboard_Final_Dashboard](https://github.com/user-attachments/assets/888cc7f3-2190-484d-b00d-26e85d191796)
 
 ## Salary Analysis
