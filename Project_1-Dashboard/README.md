@@ -1,6 +1,6 @@
 # Excel Salary Dashboard
 
-<img width="1347" height="619" alt="1_Salary_Dashboard" src="https://github.com/user-attachments/assets/b5f6be4c-8882-420b-86d8-d7d83f05d5d1" />
+![1_Salary_Dashboard_Final_Dashboard](https://github.com/user-attachments/assets/db6b65e1-a92c-4f52-b690-d54a925f92ae)
 
 
 ## Introduction
@@ -10,7 +10,7 @@ This data jobs salary dashboard was created to help job seekers investigate sala
 The data is from an Excel course by Luke, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
 
 ### Dashboard File
-My final dashboard is in [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx).
+My final dashboard is in [1_Salary_Dashboard-by_Nimra.xlsx](https://github.com/user-attachments/files/24339566/1_Salary_Dashboard-by_Nimra.xlsx).
 
 ### Excel Skills Used
 
@@ -35,7 +35,8 @@ The dataset used for this project contains real-world data science job informati
 
 #### 📊 Data Science Job Salaries - Bar Chart
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Chart1.png" width="850" height="550" alt="Salary Dashboard Chart1">
+<img width="1336" height="867" alt="1_Salary_Dashboard_Chart1" src="https://github.com/user-attachments/assets/10384a30-af73-4115-801a-5e13cce1c0e2" />
+
 
 - 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 - 🎨 **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
@@ -44,7 +45,8 @@ The dataset used for this project contains real-world data science job informati
 
 #### 🗺️ Country Median Salaries - Map Chart
 
-![1_Salary_Dashboard_Chart2.png](/0_Resources/Images/1_Salary_Dashboard_Country_Map.gif)
+![1_Salary_Dashboard_Country_Map](https://github.com/user-attachments/assets/dce9972a-ed42-4e1c-8765-dfa94881e793)
+
 
 - 🛠️ **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
 - 🎨 **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
@@ -75,11 +77,13 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Screenshot1.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot1.png)
+<img width="265" height="220" alt="1_Salary_Dashboard_Screenshot1" src="https://github.com/user-attachments/assets/a27ccc85-d006-4ed8-9cc0-8287f65ea436" />
+
 
 📉 Dashboard Implementation
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
+<img width="400" height="500" alt="1_Salary_Dashboard_Job_Title" src="https://github.com/user-attachments/assets/c9d882bf-d8b4-4b8a-ba5e-0d5d33a8e5cb" />
+
 
 #### ⏰ Count of Job Schedule Type
 
@@ -92,11 +96,13 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Type.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot2.png)
+<img width="195" height="119" alt="1_Salary_Dashboard_Screenshot2" src="https://github.com/user-attachments/assets/375936bb-0a57-46a7-93f4-e8298e6fe53a" />
+
 
 📉 Dashboard Implementation:
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
+<img width="400" height="500" alt="1_Salary_Dashboard_Type" src="https://github.com/user-attachments/assets/f3a24116-a95f-4cfa-b5fd-407160805af6" />
+
 
 ### ❎ Data Validation
 
@@ -107,7 +113,7 @@ IF(
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
+![1_Salary_Dashboard_Data_Validation](https://github.com/user-attachments/assets/65368c60-c7ee-4f02-9e6d-a25a351b8c49)<img src="mygif.gif" width="420" height="400" />
 
 ## Conclusion
 
